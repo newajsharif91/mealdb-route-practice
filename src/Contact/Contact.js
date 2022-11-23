@@ -4,7 +4,6 @@ import Navigation from "../Navigation/Navigation";
 const Contact = () => {
   return (
     <div>
-      <Navigation></Navigation>
       <div class="mockup-phone">
         <div class="camera"></div>
         <div class="display">

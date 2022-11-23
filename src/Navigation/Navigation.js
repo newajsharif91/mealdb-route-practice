@@ -41,10 +41,10 @@ const Navigation = () => {
         </div>
         <div class="navbar-center">
           <Link
-            to="/home"
+            to="/division"
             className="btn btn-ghost normal-case text-xl font-bold"
           >
-            Meal
+            Division
           </Link>
           <Link
             to="/home"
@@ -53,10 +53,10 @@ const Navigation = () => {
             Home
           </Link>
           <Link
-            to="/meal"
+            to="/distric"
             className="btn btn-ghost normal-case text-xl font-bold"
           >
-            All Meal
+            District Of Bangladesh
           </Link>
         </div>
         <div class="navbar-end">
